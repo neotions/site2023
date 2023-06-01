@@ -1,0 +1,33 @@
+{
+    "sections" : {
+
+        "section_1" : {
+            
+            "type" : "full",
+
+            "components" : [
+
+                {
+                    "id" : 1,
+                    "component-type" : "FeatureSection",
+                    "props" : {
+                        "title" : "title",
+                        "subtitle" : "this is an example of a subtitle",
+                        "background-image" : "https://unsplash.com/random"
+                    }
+                },
+
+                {
+                    "id" : 2,
+                    "component-type" : "CTASection",
+                    "props" : {
+                        "cta" : "https://www.example.com",
+                        "cta2" : "https://www.example.com"
+                    }
+                }
+
+            ]
+
+        }
+    }
+}
